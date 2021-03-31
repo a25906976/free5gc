@@ -5,4 +5,4 @@ info:
 configuration:
   mongodb: # the mongodb connected by this webui
     name: free5gc # name of the mongodb
-    url: mongodb://localhost:27017 # a valid URL of the mongodb
+    url: mongodb://192.168.56.101:27017 # a valid URL of the mongodb
